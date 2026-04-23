@@ -1,0 +1,24 @@
+{
+  "name": "mi-primer-cicd",
+  "version": "1.0.0",
+  "description": "Taller DevOPs CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebasM9530/mi-primer-cicd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SebasM9530/mi-primer-cicd/issues"
+  },
+  "homepage": "https://github.com/SebasM9530/mi-primer-cicd#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
