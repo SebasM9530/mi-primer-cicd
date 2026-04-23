@@ -5,7 +5,7 @@ function sumar(a, b) {
 }
 
 function holaMundo() {
-  return "Hola DevOps";
+  return "Hola Arquitectos";
 }
 
 const server = http.createServer((req, res) => {
