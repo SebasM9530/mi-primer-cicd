@@ -1,9 +1,9 @@
 function sumar(a, b) {
-  return a * b;  // BUG: cambiamos suma por multiplicación
+  return a + b;
 }
 
 function holaMundo() {
-  return "Hola ROTO";  // BUG: mensaje incorrecto
+  return "Hola DevOps";
 }
 
 module.exports = { sumar, holaMundo };
